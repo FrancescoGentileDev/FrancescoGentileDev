@@ -1,12 +1,17 @@
 <h2 align="center">👋 Hi, welcome! I’m Francesco Gentile</h2>
 
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F76253&lines=FrancescoGentileDev;Full-stack+web+developer;Learning+all+day+new+things&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" >
 </p>
 
-<p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=francescogentileDev&theme=radical&date_format=j%20M%5B%20Y%5D">
+### 🔥 My top project:
+
+<p align="left">
+<a href="https://github.com/FrancescoGentileDev/ultimate-notification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=ultimate-notification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ultimate-notification"></a>
+<a href="https://github.com/FrancescoGentileDev/Whatsapp-Poll-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=Whatsapp-Poll-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Whatsapp-Poll-Bot"></a>
+
 </p>
 
 ## My tech stack
@@ -34,8 +39,9 @@
 <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
 
-</p
+</p>
 
+### 🗄️ Databases and cloud hosting:
 
 <p>
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
@@ -55,7 +61,17 @@
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
 </p>
 
+### 📊 Github stats:
 
+<details>
+  <summary>Profile stats</summary>
+  <p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=francescogentileDev&theme=radical&date_format=j%20M%5B%20Y%5D">
+</p>
+  
+
+  
+ </details>
 - 📫 How to reach me https://www.linkedin.com/in/francesco-gentile-a21ab7198/
 
 
