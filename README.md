@@ -14,7 +14,7 @@
 
 </p>
 
-##🚂 My tech stack:
+## 🚂 My tech stack:
 
 ### 👨‍💻 Programming and markup languages:
 
