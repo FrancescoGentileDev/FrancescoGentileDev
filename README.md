@@ -63,15 +63,16 @@
 
 ### 📊 Github stats:
 
-<details>
+<h4> <details>
   <summary>Profile stats</summary>
   <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=francescogentileDev&theme=radical&date_format=j%20M%5B%20Y%5D">
-</p>
+<img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescogentiledev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+</p> </h4>
   
 
   
- </details>
+</details>
 - 📫 How to reach me https://www.linkedin.com/in/francesco-gentile-a21ab7198/
 
 
