@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://github.com/FrancescoGentileDev/ultimate-notification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=ultimate-notification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ultimate-notification"></a>
 <a href="https://github.com/FrancescoGentileDev/Whatsapp-Poll-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=Whatsapp-Poll-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Whatsapp-Poll-Bot"></a>
-
+<a href="https://github.com/FrancescoGentileDev/vue-vite-netflix-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=vue-vite-netflix-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vue-vite-netflix-clone"></a>
 </p>
 
 ## 🚂 My tech stack:
