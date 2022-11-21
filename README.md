@@ -38,7 +38,8 @@
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-
+<img alt="Vue" src="https://img.shields.io/badge/React-20232a.svg?logo=vue&logoColor=%4FC08D">
+<img alt="laravel" src="https://img.shields.io/badge/React-20232a.svg?logo=laravel&logoColor=%FF2D20">
 </p>
 
 ### 🗄️ Databases and cloud hosting:
