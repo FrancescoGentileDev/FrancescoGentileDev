@@ -3,15 +3,15 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F76253&lines=FrancescoGentileDev;Full-stack+web+developer;Learning+all+day+new+things&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" >
+<img src="https://readme-typing-svg.herokuapp.com?color=F76253&lines=FrancescoGentileDev;Full-stack+web+developer;Learning+all+day+new+things&center=true&width=440&height=45&color=2F75DE&vCenter=true&size=22" >
 </p>
 
 ### 🔥 My top project:
 
 <p align="left">
-<a href="https://github.com/FrancescoGentileDev/ultimate-notification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=ultimate-notification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ultimate-notification"></a>
-<a href="https://github.com/FrancescoGentileDev/Whatsapp-Poll-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=Whatsapp-Poll-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Whatsapp-Poll-Bot"></a>
-<a href="https://github.com/FrancescoGentileDev/vue-vite-netflix-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=vue-vite-netflix-clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="vue-vite-netflix-clone"></a>
+<a href="https://github.com/FrancescoGentileDev/ultimate-notification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=ultimate-notification&theme=react&bg_color=0a1930&title_color=2f75de&icon_color=F8D866&hide_border=true&show_icons=false" alt="ultimate-notification"></a>
+<a href="https://github.com/FrancescoGentileDev/Whatsapp-Poll-Bot"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=Whatsapp-Poll-Bot&theme=react&bg_color=0a1930&title_color=2f75de&icon_color=F8D866&hide_border=true&show_icons=false" alt="Whatsapp-Poll-Bot"></a>
+<a href="https://github.com/FrancescoGentileDev/vue-vite-netflix-clone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FrancescoGentileDev&repo=vue-vite-netflix-clone&theme=react&bg_color=0a1930&title_color=2f75de&icon_color=F8D866&hide_border=true&show_icons=false" alt="vue-vite-netflix-clone"></a>
 </p>
 
 ## 🚂 My tech stack:
